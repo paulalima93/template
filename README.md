@@ -1,0 +1,2 @@
+- Template vazio para os alunos criarem projetos livres de jogos.
+- Contém arquivo principal (sketch), arquivo HTML para rodar no browser com servidor e os arquivos da biblioteca p5.js
